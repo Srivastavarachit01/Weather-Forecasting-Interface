@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![image alt](https://github.com/Srivastavarachit01/Weather-Forecasting-Interface/blob/b17c2cf5dd26f3274102d1183b43af6a973aa476/myphoto.jpeg)
+
 ## Available Scripts
 
 In the project directory, you can run:
