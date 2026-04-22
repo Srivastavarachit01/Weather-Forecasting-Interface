@@ -14,9 +14,6 @@ Runs the app in the development mode.\
 
 ![image alt](https://github.com/Srivastavarachit01/Weather-Forecasting-Interface/blob/706b652b3761cef1b6191aafdf774f83f058dc92/myphoto2.jpeg)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
